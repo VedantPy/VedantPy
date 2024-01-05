@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project for SIH 2023<br>🌱 I’m currently learning full-stack web development using NextJS 13.4+<br>⚡ Fun fact: I mostly code on weekends 💡
+⚡ Fun fact: I mostly code on weekends 💡
 
 
 ## 🌐 Socials:
